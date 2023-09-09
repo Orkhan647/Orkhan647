@@ -8,7 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Orkhan</h1></summary>
   </ul>
   <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=400&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=700&height=80">
 </p>
 </div>
 

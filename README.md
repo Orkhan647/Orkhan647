@@ -7,6 +7,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Orkhan</h1></summary>
   </ul>
+  <p align="left" color="gold">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=400&height=50">
+</p>
 </div>
 
 
@@ -29,7 +32,7 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-- 🔭 I’m currently working
+- 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning
 

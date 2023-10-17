@@ -48,7 +48,7 @@
 
 - 📫 How to reach me **Orkhankarimoff@hotmail.com**
 
-- 🌐 Portfolio www.https://orxan-kerimov.vercel.app*
+- 🌐 Portfolio https://orxan-kerimov.vercel.app*
 
 
 

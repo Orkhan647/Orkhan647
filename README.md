@@ -13,10 +13,6 @@
 </div>
 
 
-<!--Pacman-->
-<p align="center">
-  <img src="https://gh-pacman-graph.vercel.app/Orkhan647" alt="Pac-Man Animation" width="300">
-</p>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">

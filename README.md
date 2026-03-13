@@ -14,9 +14,7 @@
 
 
 <!--Pacman-->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Pac-Man" width="300">
-</p>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">

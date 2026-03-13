@@ -14,12 +14,7 @@
 
 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg">
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp">
 
 
 <!--Intro start-->

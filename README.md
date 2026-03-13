@@ -14,6 +14,9 @@
 
 
 <!--Pacman-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation">
+</p>
 
 
 <!--h2 without bottom border-->

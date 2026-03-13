@@ -14,7 +14,9 @@
 
 
 <!--Pacman-->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orkhan647&repo=your-repo&theme=dark" alt="Pacman graph"/>
+</p>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
